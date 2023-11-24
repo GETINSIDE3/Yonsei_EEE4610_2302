@@ -21,4 +21,6 @@ Graph similarity using CUDA
 
 **Testing the code**
 
-    ./matmul [number of vertices to test] [input file name #1 (optional)] [input file name #2 (optional)]
+    ./matmul [# of vertices to test] [input file name #1] [input file name #2]
+
+    (input file names are optional)
