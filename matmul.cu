@@ -190,7 +190,7 @@ int main(int argc, char* argv[]) {
     std::vector<std::vector<int>> identicalMatrix1 = generateRandomAdjacencyMatrix(TEST_VERTICES, 10);
     std::vector<std::vector<int>> identicalMatrix2 = identicalMatrix1;
 
-    // // Test Case 2: Completely different matrices, should result in score 0
+    // Test Case 2: Completely different matrices, should result in score 0
     std::vector<std::vector<int>> oppositeMatrix1 = generateRandomAdjacencyMatrix(TEST_VERTICES, 10);
     std::vector<std::vector<int>> oppositeMatrix2 = oppositeMatrix(oppositeMatrix1);
 
