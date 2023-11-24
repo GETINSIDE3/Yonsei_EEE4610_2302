@@ -8,7 +8,7 @@ Graph similarity using CUDA
 
     git clone https://github.com/GETINSIDE3/Yonsei_EEE4610_2302.git
 
-    cd Yonsei_EEE4610_2302
+    cd Yonsei_EEE4610_2302/
 
 **Compiling your code**
 
