@@ -14,7 +14,7 @@ Graph similarity using CUDA
 
     cd ./inputGen
 
-    ./graphgen [num_vertices] [output_suffix]
+    ./graphgen [num_vertices] [output_file_suffix]
 
     (or you can simply ./gen_dataset.sh)
 
