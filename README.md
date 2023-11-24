@@ -20,12 +20,10 @@ Graph similarity using CUDA
     cd ./inputGen
 
     ./graphgen [num_vertices] [output_file_suffix]
-
     (or you can simply ./gen_dataset.sh)
 
 
 **Testing the code**
 
     ./matmul [# of vertices to test] [input file name #1] [input file name #2]
-
     (input file names are optional)
